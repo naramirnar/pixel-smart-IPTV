@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:0 tvg-id="TF1 HD" tvg-name="TF1 HD" tvg-logo="https://i.imgur.com/06fP5xL.jpg" group-title="Chaines Francaises",TF1 HD
+https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
+#EXTINF:0 tvg-id="TF1 FR" tvg-name="TF1 FR" tvg-logo="https://i.imgur.com/06fP5xL.jpg" group-title="Chaines Francaises",TF1 FR
+http://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/master_2000000.m3u8
+#EXTINF:0 tvg-id="TF1 Series Film FR" tvg-name="TF1 Series Film FR" tvg-logo="https://i.imgur.com/RcUdig8.jpg" group-title="Chaines Francaises",TF1 Series Film
+https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
+#EXTINF:0 tvg-id="TFX" tvg-name="TFX" tvg-logo="https://i.imgur.com/LLbpKZh.png" group-title="Chaines Francaises",TFX
+https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8
+#EXTINF:0 tvg-id="TMC FR" tvg-name="TMC FR" tvg-logo="https://i.imgur.com/cV2Os0a.jpg" group-title="Chaines Francaises",TMC
+https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8
+#EXTINF:0 tvg-id="TV5 Style" tvg-name="TV5 Style" tvg-logo="http://frenchflicks.com/tl_files/tv5monde/tv5monde%20Style%20logo2.jpg" group-title="Chaines Francaises",TV5 Style
+https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/tv5style_eng_1200.m3u8
+#EXTINF:0 tvg-id="TV5Monde Info" tvg-name="TV5Monde Info" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="Chaines Francaises",TV5Monde Info
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
+#EXTINF:0, tvg-id="Gong" tvg-name="Gong" tvg-logo="http://www.gongnetworks.com/images/logo.jpg" group-title="Chaines Francaises",Gong
+http://51.254.215.79/appflux/gong/GONG/gong_0640/playlist.m3u8
+#EXTINF:0, tvg-id="Gong Max" tvg-name="Gong Max" tvg-logo="http://www.gongnetworks.com/images/bt-gongmax-hover.jpg" group-title="Chaines Francaises",Gong Max
+http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_0640/chunks.m3u8
+#EXTINF:0, tvg-id="MYComedy" tvg-name="MYComedy" tvg-logo="https://mycomedy.fr/wp-content/uploads/2020/07/mycomedy-logo-ecrit-blanc-5.png" group-title="Chaines Francaises",MYComedy
+http://live.creacast.com/mycomedy/smil:mycomedy.smil/chunklist_w1113167704_b1928000.m3u8
+#EXTINF:0, tvg-id="D5 TV" tvg-name="D5 TV" tvg-logo="https://d5tv.fr/wp-content/uploads/2020/07/d5tv_carre.png" group-title="Chaines Francaises",D5 TV
+https://live.creacast.com/d5tv/smil:d5tv.smil/chunklist_w958420568_b1928000.m3u8
+#EXTINF:0, tvg-id="Rouge TV" tvg-name="Rouge TV" tvg-logo="https://cdn.pixabay.com/photo/2015/08/11/15/07/surreal-884695__340.jpg" group-title="Chaines Francaises",Rouge TV
+http://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8
+#EXTINF:0, tvg-id="RT France" tvg-name="RT France" tvg-logo="https://image.winudf.com/v2/image1/Y29tLnJ0Lm1vYmlsZS5lbmdsaXNoX2ljb25fMTU1NTUzNDA4M18wMzA/icon.png?w=170&fakeurl=1" group-title="Chaines Francaises",RT France
+http://rt-france.secure.footprint.net:80/1107_2500Kb.m3u8
+#EXTINF:0, tvg-id="Tele Haiti" tvg-name="Tele Haiti" tvg-logo="https://cdn.countryflags.com/thumbs/haiti/flag-800.png" group-title="Chaines Francaises",Tele Haiti
+http://66.175.238.147:1935/live/myStream/chunklist.m3u8
+#EXTINF:0, tvg-id="France24" tvg-name="France24" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61v1v-8ltPL._SX522_.png" group-title="Chaines Francaises",France24
+http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-0rVZMog6ieI/XfCwFdoaNTI/AAAAAAAAA2U/Bx9dkL9H1BkoBgppCR4Hd6wBSHAlJr21QCNcBGAsYHQ/s1600/arte.png" group-title="Chaines Francaises",ARTE
+https://edge-1192-ch-gv.filmon.com/live/1729.high.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://static.lci.fr/assets/images/logo_lci.png" group-title="Chaines Francaises",LCI
+https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-2L6GW7LiXVc/XfdFxCiAq9I/AAAAAAAAA5s/hjxF3M6COoY0SI-Ghkq8WIgN14Vv0RHwwCNcBGAsYHQ/s1600/cstar.png" group-title="Chaines Francaises",Cstar
+http://144.217.253.140/Cstar/tracks-v1a1/index.m3u8
+#EXTINF:-1, tvg-id="Rotana Kids" tvg-name="Rotana Kids" tvg-logo="https://www.dostor.org/upload/photo/news/311/1/600x338o/266.jpg?q=1" group-title="Chaines Arabes",Rotana Kids 
+https://rotana.hibridmedia.com/rotana/kids_dabr/playlist.m3u8
+#EXTINF:0, tvg-id="France 24 Arabic" tvg-name="France 24 Arabic" tvg-logo="https://tunis.consulfrance.org/local/cache-vignettes/L104xH38/804d688b71d57397-58e6f.jpg?1577369896" group-title="Chaines Arabes",France 24 Arabic
+http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
+#EXTINF:-1 tvg-id="LBC International ARB" tvg-name="LBC International ARB" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/lbc.png" group-title="Chaines Arabes",LBC International HD
+https://rotana.hibridmedia.com/rotana/lbc_dabr/playlist.m3u8
+#EXTINF:-1 tvg-id="Rotana Cinema ARB" tvg-name="Rotana Cinema ARB" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/cinema.png" group-title="Chaines Arabes",Rotana Cinema HD
+https://rotana.hibridmedia.com/rotana/cinema_dabr/playlist.m3u8
+#EXTINF:-1 tvg-id="Rotana Comedy ARB" tvg-name="Rotana Comedy ARB" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/comedy.png" group-title="Chaines Arabes",Rotana Comedy HD
+https://rotana.hibridmedia.com/rotana/comedy_dabr/playlist.m3u8
+#EXTINF:-1 tvg-id="Rotana Drama HD" tvg-name="Rotana Drama HD" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/drama.png" group-title="Chaines Arabes",Rotana Drama HD
+https://rotana.hibridmedia.com/rotana/drama_dabr/playlist.m3u8
+#EXTINF:-1, tvg-id="Abu Dhabi TV" tvg-name="Abu Dhabi TV" tvg-logo="https://i.imgur.com/oExmYqk.jpg" group-title="Chaines Arabes",Abu Dhabi TV
+http://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://www.dubaione.ae/content/dam/dubaione/icons/logo-310320/400x170.png" group-title="Chaines Arabes",Dubai One
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.clker.com/cliparts/a/3/t/n/W/W/24-horas-md.png" group-title="Chaines Espagnoles",24 Horas
+http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-b.m3u8
